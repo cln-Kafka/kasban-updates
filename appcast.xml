@@ -5,6 +5,19 @@
     <description>Kasban Admin Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <description><![CDATA[<ul><li>Your changes here</li></ul>]]></description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/cln-Kafka/Kasban-Wholesale/releases/download/v1.0.1/kasban_admin-1.0.1+2-windows-setup.exe"
+        sparkle:version="1.0.1+2"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.0</title>
       <description>
         <![CDATA[
