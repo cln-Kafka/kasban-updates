@@ -9,7 +9,7 @@
       <description><![CDATA[<ul><li>Your changes here</li></ul>]]></description>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/file/d/1CLn6jA-cp9KxH86Kl3Dr_vwJPt_AIO-U/view?usp=sharing"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.2/kasban_admin-1.0.2+3-windows-setup.exe"
         sparkle:version="1.0.2+3"
         sparkle:os="windows"
         length="0"
