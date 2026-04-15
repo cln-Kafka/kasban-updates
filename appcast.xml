@@ -17,7 +17,7 @@
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.7/kasban_admin-1.0.7-windows.exe"
-        sparkle:version="1.0.7"
+        sparkle:version="1.0.7+8"
         sparkle:shortVersionString="1.0.7"
         sparkle:os="windows"
         length="16335341"
