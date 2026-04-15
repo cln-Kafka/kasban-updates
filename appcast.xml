@@ -5,7 +5,7 @@
     <description>Kasban Admin Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.6</title>
+      <title>Version 1.0.7</title>
       <description><![CDATA[
         <ul>
           <li>
@@ -14,12 +14,13 @@
         </ul>
         ]]>
       </description>
-      <pubDate>Tue, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.6/kasban_admin-1.0.6%2B7-windows-setup.exe"
-        sparkle:version="1.0.6+7"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.7/kasban_admin-1.0.7-windows.exe"
+        sparkle:version="1.0.7"
+        sparkle:shortVersionString="1.0.7"
         sparkle:os="windows"
-        length="0"
+        length="16335341"
         type="application/octet-stream"
       />
     </item>
