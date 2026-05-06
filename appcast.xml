@@ -16,7 +16,7 @@
       </description>
       <pubDate>Wed, 05 May 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.10/kasban_admin-1.0.11-windows.exe"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.11/kasban_admin-1.0.11-windows.exe"
         sparkle:version="1.0.11+12"
         sparkle:shortVersionString="1.0.11"
         sparkle:os="windows"
