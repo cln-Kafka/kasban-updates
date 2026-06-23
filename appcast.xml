@@ -5,20 +5,21 @@
     <description>Kasban Admin Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.12+13</title>
+      <title>Version 1.0.13+14</title>
       <description><![CDATA[
         <ul>
           <li>
-            Load invoice contact phone number from database settings
+            - New setting added: Enable or disable selling
+            - Searchable dropdowns in the add product dialog
           </li>
         </ul>
         ]]>
       </description>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.12/kasban_admin-1.0.12-windows.exe"
-        sparkle:version="1.0.12+13"
-        sparkle:shortVersionString="1.0.12"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.13/kasban_admin-1.0.13-windows.exe"
+        sparkle:version="1.0.13+14"
+        sparkle:shortVersionString="1.0.13"
         sparkle:os="windows"
         length="16365459"
         type="application/octet-stream"
