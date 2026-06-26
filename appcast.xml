@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Kasban Admin</title>
     <description>Kasban Admin Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.13+14</title>
-      <description><![CDATA[
-        <ul>
-          <li>
-            - New setting added: Enable or disable selling
-            - Searchable dropdowns in the add product dialog
-          </li>
-        </ul>
-        ]]>
-      </description>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Version 1.0.14+15</title>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.13/kasban_admin-1.0.13-windows.exe"
-        sparkle:version="1.0.13+14"
-        sparkle:shortVersionString="1.0.13"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.14/kasban_admin-1.0.14-windows.exe"
+        sparkle:version="1.0.14+15"
+        sparkle:shortVersionString="1.0.14"
         sparkle:os="windows"
         type="application/octet-stream"
-        length="16364620"
+        length="16377751"
       />
     </item>
   </channel>
