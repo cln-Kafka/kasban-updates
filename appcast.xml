@@ -5,15 +5,15 @@
     <description>Kasban Admin Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.16+17</title>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Version 1.0.17+18</title>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.16/kasban_admin-1.0.16-windows.exe"
-        sparkle:version="1.0.16+17"
-        sparkle:shortVersionString="1.0.16"
+        url="https://github.com/cln-Kafka/kasban-updates/releases/download/v1.0.17/kasban_admin-1.0.17-windows.exe"
+        sparkle:version="1.0.17+18"
+        sparkle:shortVersionString="1.0.17"
         sparkle:os="windows"
         type="application/octet-stream"
-        length="16378233"
+        length="16475273"
       />
     </item>
   </channel>
